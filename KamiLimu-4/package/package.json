@@ -1,0 +1,28 @@
+{
+  "name": "kamilimu-4",
+  "version": "1.0.1",
+  "description": "This Contains Month 4 Learnings",
+  "main": "index.js",
+  "bin": {
+    "KamiLimu-4": "./index.js"
+  },
+  "scripts": {
+    "test": "KL-4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebbieMzingKe/KamiLimu-4.git"
+  },
+  "keywords": [
+    "KL-4"
+  ],
+  "author": "Sebbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebbieMzingKe/KamiLimu-4/issues"
+  },
+  "homepage": "https://github.com/SebbieMzingKe/KamiLimu-4#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
